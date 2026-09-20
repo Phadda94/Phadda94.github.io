@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.23958ff9.css",
+    "main.js": "/my-portfolio/static/js/main.9ebf2fa9.js",
+    "static/media/ComfySite.gif": "/my-portfolio/static/media/ComfySite.a8600e260e9d3cfefdda.gif",
+    "static/media/SoundsReal.gif": "/my-portfolio/static/media/SoundsReal.3855b209ca49f2816375.gif",
+    "static/media/federico.nocornice.svg": "/my-portfolio/static/media/federico.nocornice.2cfd6b001670f5cb0980d34741e10af9.svg",
+    "static/media/Forecast.gif": "/my-portfolio/static/media/Forecast.f420277c9859c0af8b6b.gif",
+    "static/media/Consumed.gif": "/my-portfolio/static/media/Consumed.8ffe1d56549df4d9b4d2.gif",
+    "static/media/Todo List.gif": "/my-portfolio/static/media/Todo List.cf41cc0b2afbcb68fdca.gif",
+    "static/media/CaloriesCalculator.gif": "/my-portfolio/static/media/CaloriesCalculator.3715a7fd8d951b012710.gif",
+    "static/media/react_lifeCycle_cert.svg": "/my-portfolio/static/media/react_lifeCycle_cert.66fef028a918497191be0709ac255f1a.svg",
+    "static/media/PHP_cert.svg": "/my-portfolio/static/media/PHP_cert.d8a7b6abf52e836b88830cf83b618d58.svg",
+    "static/media/Js_cert.svg": "/my-portfolio/static/media/Js_cert.9334a2025a28f8ae504abf759307d18e.svg",
+    "static/media/html_cert.svg": "/my-portfolio/static/media/html_cert.9b4a440d099d0802d77d4d2e7bb4b314.svg",
+    "static/media/css_cert.svg": "/my-portfolio/static/media/css_cert.f719b52b0224eef6ef289c78928ab44b.svg",
+    "static/media/Js_inter_cert.svg": "/my-portfolio/static/media/Js_inter_cert.527d2fe06a18411705b61cf175234cf1.svg",
+    "static/media/css_inter_certificate.svg": "/my-portfolio/static/media/css_inter_certificate.a023767ad94d3770844752321c72dac7.svg",
+    "static/media/KeyboardPiano.gif": "/my-portfolio/static/media/KeyboardPiano.b27bec14eb79cae50398.gif",
+    "static/media/js_interactive_web_certificate.svg": "/my-portfolio/static/media/js_interactive_web_certificate.91ba9609239a5811f690ded0e515b077.svg",
+    "static/media/react_introduction_cert.svg": "/my-portfolio/static/media/react_introduction_cert.1a35471e05da230fb941f60f619c91c8.svg",
+    "static/media/Federico-Ciceri.pdf": "/my-portfolio/static/media/Federico-Ciceri.c3a18d33310a37631e00.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.23958ff9.css.map": "/my-portfolio/static/css/main.23958ff9.css.map",
+    "main.9ebf2fa9.js.map": "/my-portfolio/static/js/main.9ebf2fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23958ff9.css",
+    "static/js/main.9ebf2fa9.js"
+  ]
+}

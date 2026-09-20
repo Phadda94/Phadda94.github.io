@@ -1,0 +1,186 @@
+:root {
+    --black: #1F1F1F;
+    --white: #DEDEDE;
+    --green: #80DB0F;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: var(--white);
+    font-family: Poppins;
+    font-weight: 400;
+}
+
+header {
+    background-color: var(--black);
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    width: fit-content;
+    margin: auto;
+    color: var(--white)
+
+}
+
+#input-container {
+    width: fit-content;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.input {
+    background-color: var(--white);
+    border: 2px solid var(--black);
+    color: var(--black);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px 0;
+}
+
+#activity-button {
+    background-color: var(--green);
+    color: var(--black);
+    border: 2px solid var(--black);
+    transition: .4s;
+}
+
+#activity-button:hover {
+    cursor: pointer;
+    color: var(--green);
+    background-color: #1F1F1F;
+    animation: activity .4s;
+}
+
+table {
+    table-layout: fixed;
+    width: 80%;
+    background-color: var(--white);
+    visibility: hidden;
+    padding: 20px 30px;
+    margin: auto;
+    margin-top: 5%;
+    border: 2px solid black;
+    font-weight: 700;
+    font-size: 1.3cqmax;
+    border-radius: 20px 0;
+}
+
+td {
+    border: 2px solid var(--black);
+    padding: 8px;
+    text-align: center;
+    width: 150px; /* oppure un valore ragionevole */
+}
+
+td:nth-child(4) { /* Seleziona specificatamente la cella dei checkbox */
+    width: 50px;
+}
+
+
+input[type="checkbox"] {
+    appearance: none;
+    display: flex;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    background-color: var(--white);
+    border: 2px solid var(--black);
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  /* Aggiungi la spunta personalizzata */
+  input[type="checkbox"]::after {
+    content: '';
+    position: absolute;
+    width: 4px;
+    height: 15px;
+    border: solid var(--green);
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+    left: 8px;
+    bottom: 4px;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+  
+  input[id^="checkbox-"]:checked {
+    background-color: var(--black);
+    border: 2px solid var(--white);
+  }
+
+  /* Quando il checkbox è spuntato */
+  input[type="checkbox"]:checked::after {
+    opacity: 1;
+  }
+
+  
+.checked {
+    text-decoration: line-through;
+    color: rgb(88, 88, 88);
+    background-color: var(--black);
+}
+
+
+.input[type="date"]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    color: #DEDEDE;
+}
+
+#username-box {
+    color: var(--white);
+    position: absolute;
+    display: flex;
+}
+
+#username-text {
+    margin: auto;
+    margin-left: 10%;
+    text-decoration-line:underline;
+    text-decoration-color: var(--green);
+    padding: 5px;
+    cursor: default;
+}
+
+#username-bin {
+    scale: 0.7;
+    cursor: pointer;
+}
+
+.delete-button {
+    display: flex;
+    margin: auto;
+}
+
+.delete-button:hover {
+    cursor: pointer;
+}
+
+#login-box {
+    margin-left: 20%;
+    padding: 5px;
+    cursor: pointer;
+    border: 1px solid var(--white);
+    border-radius: 10px 0;
+    transition: .4s;
+}
+
+#login-box:hover {
+    background-color: var(--white);
+    color: var(--black);
+    border-radius: 0 10px;
+}
+
+@keyframes activity {
+    33%   {transform: rotate(5deg)}
+    66%  {transform: rotate(-5deg)}
+    100% {transform: rotate(0deg)}
+  }
+  

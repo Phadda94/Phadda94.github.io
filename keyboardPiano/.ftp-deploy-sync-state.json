@@ -1,0 +1,113 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1773013429201,
+    "data": [
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 76,
+            "hash": "cb3fd533742c042386a796039855936d2b3022ec1a16f66b39b7a868f4c0ba08"
+        },
+        {
+            "type": "folder",
+            "name": "audio"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 1626,
+            "hash": "902fcc7e2ed2ba194bb045bd6d5ae6e3e3d136eee09fcf45fb48c19dceebca3e"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 1152,
+            "hash": "8703a5cc7fab73e8ddd5a9e83cfbfaccfe60c88b35ab9ba48a88fd37a5d38ab2"
+        },
+        {
+            "type": "file",
+            "name": "main.js",
+            "size": 1432,
+            "hash": "970954d88403bca63076c4970ae622b0e945dca03f9ededfea213e39697a0c3b"
+        },
+        {
+            "type": "file",
+            "name": "audio/A.wav",
+            "size": 1004696,
+            "hash": "b6d7b8a4cbf7d95900d0a956c1c07c9bbacc8f4d6a0a728e32c430c812f33c66"
+        },
+        {
+            "type": "file",
+            "name": "audio/A_.wav",
+            "size": 1026748,
+            "hash": "e3b38cf7480ddc9bbb310dcdb4c0e4c62d8124196aead452126cdf2704a1161f"
+        },
+        {
+            "type": "file",
+            "name": "audio/B.wav",
+            "size": 1058444,
+            "hash": "7be7dab620c00c31a6363b0671a7536dac85e846a82cfda9eb78f8f45594820e"
+        },
+        {
+            "type": "file",
+            "name": "audio/C.wav",
+            "size": 705644,
+            "hash": "1e403d3f42fa048aeb46bd5f68d781b5f6cc5b5af5d2176ca183ab82a2cf2895"
+        },
+        {
+            "type": "file",
+            "name": "audio/C8.wav",
+            "size": 1058444,
+            "hash": "0cdbc614aa709ab9fcb88f9ed83ebe5baa135868dd4b3aa9dc37f21869cadd08"
+        },
+        {
+            "type": "file",
+            "name": "audio/C_.wav",
+            "size": 1058444,
+            "hash": "6efae9467bb2495c20bf00e320d8727eb900d95a276051a4a3523bf03938fc60"
+        },
+        {
+            "type": "file",
+            "name": "audio/D.wav",
+            "size": 1058444,
+            "hash": "ea96b103d1fd9804b3d79ef61145654cf32ef149027116c0812967d6062e3417"
+        },
+        {
+            "type": "file",
+            "name": "audio/D_.wav",
+            "size": 1058444,
+            "hash": "06291851bc218f01666516a8a9c84d52adf212ead123a07e91a6cbba20be24f0"
+        },
+        {
+            "type": "file",
+            "name": "audio/E.wav",
+            "size": 1012280,
+            "hash": "a3bc3cd0839f72788991f972a453702ac2cda6e34b09db4187afac0230634419"
+        },
+        {
+            "type": "file",
+            "name": "audio/F.wav",
+            "size": 992292,
+            "hash": "b7d64800e8d45fa00135c905d7c5115dbe896fb652d4b538bd7e7b591f59e55d"
+        },
+        {
+            "type": "file",
+            "name": "audio/F_.wav",
+            "size": 1058444,
+            "hash": "3c11ce39ce786d4fa501d4ffd0ad63d3f7301e828b5e8acdf59f7399ddc4778a"
+        },
+        {
+            "type": "file",
+            "name": "audio/G.wav",
+            "size": 882044,
+            "hash": "f5d45834dd219d754372e8cc3da328de294e0e056f5c16db615f84833b8d8a73"
+        },
+        {
+            "type": "file",
+            "name": "audio/G_.wav",
+            "size": 978512,
+            "hash": "c12eac9fcba29f7afca2a682426a6b290dc289014f549418745ece63794b2b7c"
+        }
+    ]
+}
